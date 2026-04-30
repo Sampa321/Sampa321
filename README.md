@@ -46,6 +46,11 @@
   <img src="https://img.shields.io/badge/Medium-250-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hard-80-red?style=for-the-badge" />
 </p>
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/sampanas3m4u/">
+    <img src="https://img.shields.io/badge/GFG%20Score-500%2B-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
+  </a>
+</p>
 ---
 
 ## 🎓 Certifications
