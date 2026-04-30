@@ -39,8 +39,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampa321&repo=BankManagementSystem&theme=radical" />
   </a>
 
-  <a href="https://github.com/Sampa321/Notes-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampa321&repo=Notes-App&theme=radical" />
+  <a href="https://github.com/Sampa321/DailyDevelopmentPracticeTask/tree/main/MiniProject/Note-APP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampa321&repo=DailyDevelopmentPracticeTask&theme=radical" />
   </a>
 </p>
 ---
