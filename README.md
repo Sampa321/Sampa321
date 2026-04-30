@@ -27,11 +27,10 @@
 ---
 
 ## 🚀 About Me
-🎓 B.Tech in Computer Science & Engineering (2023–2027) of CGPA 8.71/10.0
-🏫 Swami Vivekananda University, West Bengal, India  
+🎓 B.Tech in Computer Science & Engineering (2023–2027) of CGPA 8.71/10.0.
+🏫 Swami Vivekananda University, West Bengal, India. 
 💻 Passionate about Frontend Development & 500+ GeeksForGeeks Problem Solving.
-
-🌱 Currently learning Advanced DSA & React  
+🌱 Currently learning Advanced DSA & React .
 📍 Kolkata, India  
 📫 Email: sampanayak987@gmail.com  
 
