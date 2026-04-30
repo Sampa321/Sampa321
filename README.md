@@ -41,6 +41,7 @@
 </p>
  
 ### 🟢 GeeksforGeeks Stats
+<img src="https://img.shields.io/badge/GeeksforGeeks-1000%2B%20Score-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
 <p align="center">
   <img src="https://img.shields.io/badge/Easy-120-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Medium-250-yellow?style=for-the-badge" />
