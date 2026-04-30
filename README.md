@@ -39,8 +39,9 @@
     💻 Passionate about Frontend Development & 500+ GeeksForGeeks Problem Solving.<br>
     🌱 Currently learning Advanced DSA & React.<br>
     📍 Kolkata, India  <br>
-    📫 Email: sampanayak987@gmail.com 
 </p>
+📫 Email: sampanayak987@gmail.com 
+
 ---
 
 ## 🛠️ Tech Stack
