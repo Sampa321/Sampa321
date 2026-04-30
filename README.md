@@ -1,5 +1,25 @@
 <h1 align="center">Hi 👋, I'm Sampa Nayak</h1>
 <p align="center">
+  <a href="mailto:sampanayak987@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Sampa321">
+    <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/Sampa_Nayak1">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=red&size=25&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer;☕+Java+Developer;🧠+DSA+Enthusiast;Always+Learning+New+Things" />
 </p>
 
