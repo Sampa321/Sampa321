@@ -58,3 +58,12 @@ Swami Vivekananda University(West Bengal,India)
 - Programming In Java                         NPTEL
 - Design and Analysis Of Algorithms           NPTEL
 - Training on React                           Ardent Computech Pvt. Ltd.
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical)
+
+### 🔥 Streak
+![Streak](https://streak-stats.demolab.com/?user=Sampa321&theme=radical)
+
+### 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sampa321&theme=radical)
