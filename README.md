@@ -1,15 +1,6 @@
  <h1 align="center">Hi 👋, I'm Sampa Nayak</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=red&size=25&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer;☕+Java+Developer+%7C+🧠+DSA+Enthusiast;Always+Learning+New+Things" />
-</p>
-
- 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-1000%2B-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GFG%20Score-1000%2B-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
-  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=red&size=25&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer;☕+Java+Developer;🧠+DSA+Enthusiast;Always+Learning+New+Things" />
 </p>
 ---
 
