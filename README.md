@@ -40,7 +40,7 @@
   </a>
 
   <a href="https://github.com/Sampa321/DailyDevelopmentPracticeTask/tree/main/MiniProject/Note-APP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampa321&repo=Note-APP&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampa321&repo=DailyDevelopmentPracticeTask&theme=radical" />
   </a>
 </p>
 ---
