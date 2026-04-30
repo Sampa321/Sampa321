@@ -45,6 +45,10 @@
   <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sampanas3m4u" />
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sampa_Nayak1?theme=dark&font=Baloo&ext=heatmap" width="48%" />
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sampanas3m4u" width="48%" />
+</p>
 ---
 
 ## 🎓 Certifications
