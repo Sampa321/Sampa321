@@ -1,6 +1,12 @@
  <h1 align="center">Hi 👋, I'm Sampa Nayak</h1>
 <h3 align="center">Frontend Developer | Java Developer | DSA Enthusiast</h3>
 
+
+<h1 align="center">Hi 👋, I'm Sampa Nayak</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Java+Developer;DSA+Enthusiast;Problem+Solver&center=true&width=500&height=50">
+</p>
 ---
 
 ## 🚀 About Me
