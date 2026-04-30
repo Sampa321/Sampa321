@@ -95,11 +95,11 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Let's Connect
 
 <p align="center">
   <a href="mailto:sampanayak987@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
   <a href="https://www.linkedin.com/">
@@ -110,7 +110,8 @@
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=Sampa321&style=for-the-badge" />
+
+<center><img src="https://komarev.com/ghpvc/?username=Sampa321&style=for-the-badge" /></center>
 
 ---
 
