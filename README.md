@@ -45,25 +45,6 @@
 ✔ Solved **500+ DSA problems** (Arrays, Strings, Linked List, Recursion, Stack, Queue)  
 ✔ Active coding on platforms like LeetCode & GeeksforGeeks  
 ✔ Consistent GitHub contributions  
-### 🧠 LeetCode
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sampa_Nayak1?theme=dark&font=Baloo&ext=heatmap" />
-</p>
- 
-### 🟢 GeeksforGeeks Stats
-
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/sampanas3m4u/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-1127%2B%20Score-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Basic-267-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Easy-258-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Medium-76-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hard-5-red?style=for-the-badge" />
-</p> 
-
 
 ## 💻 Coding Profiles
 
