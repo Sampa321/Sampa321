@@ -42,7 +42,7 @@
  
 ### 🟢 GeeksforGeeks Stats
 <p align="center">
-  <img src="https://gfgstatscard.vercel.app/sampanas3m4u?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sampanas3m4u" />
 </p>
 
 ---
