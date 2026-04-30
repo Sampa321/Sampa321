@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=red&size=25&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer;☕+Java+Developer;🧠+DSA+Enthusiast;Always+Learning+New+Things" />
 </p>
 ---
+---
 
 ## 🚀 About Me
 🎓 B.Tech in Computer Science & Engineering (2023–2027)  
