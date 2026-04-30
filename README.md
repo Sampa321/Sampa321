@@ -64,6 +64,19 @@
   <img src="https://img.shields.io/badge/Hard-5-red?style=for-the-badge" />
 </p> 
 
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/Sampa_Nayak1">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🎓 Certifications
@@ -109,6 +122,7 @@
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ## ✨ Quote
