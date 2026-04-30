@@ -115,7 +115,7 @@
  
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sampa321&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sampa321&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Experience" />
 </p>
 
 ---
