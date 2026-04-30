@@ -22,7 +22,7 @@
 
 ---
 
-## 📌 Projects
+## ## 📂 Featured Projects
 🔹 **Bank Management System**  
 - Built using Java & MySQL  
 - Implements account handling, transactions, and database operations  
@@ -35,7 +35,7 @@
 ## 📂 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Sampa321/Bank-Management-System">
+  <a href="https://github.com/Sampa321/JavaMainAdvanceProjectUsingMysqlDaoPojo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampa321&repo=JavaMainAdvanceProjectUsingMysqlDaoPojo&theme=radical" />
   </a>
 
