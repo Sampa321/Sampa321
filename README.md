@@ -41,6 +41,7 @@
 </p>
  
 ### 🟢 GeeksforGeeks Stats
+
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/sampanas3m4u/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-1127%2B%20Score-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
@@ -52,6 +53,7 @@
   <img src="https://img.shields.io/badge/Medium-76-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hard-5-red?style=for-the-badge" />
 </p>
+<img src="https://img.shields.io/badge/GeeksforGeeks-1000%2B%20Score-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
 
 ---
 
