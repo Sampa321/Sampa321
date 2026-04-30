@@ -35,7 +35,15 @@
 ✔ Solved **500+ DSA problems** (Arrays, Strings, Linked List, Recursion, Stack, Queue)  
 ✔ Active coding on platforms like LeetCode & GeeksforGeeks  
 ✔ Consistent GitHub contributions  
+### 🧠 LeetCode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sampa_Nayak1?theme=dark&font=Baloo&ext=heatmap" />
+</p>
 
+### 🟢 GeeksforGeeks
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sampana3m4u" />
+</p>
 ---
 
 ## 🎓 Certifications
