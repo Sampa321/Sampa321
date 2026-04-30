@@ -77,9 +77,10 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=radical" />
+  
 </p>
 
 ---
