@@ -41,13 +41,11 @@
 </p>
  
 ### 🟢 GeeksforGeeks Stats
-<p align="center">
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sampanas3m4u" />
-</p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sampa_Nayak1?theme=dark&font=Baloo&ext=heatmap" width="48%" />
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sampanas3m4u" width="48%" />
+  <a href="https://www.geeksforgeeks.org/user/sampanas3m4u/">
+    <img src="https://img.shields.io/badge/GFG%20Score-500%2B-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
+  </a>
 </p>
 ---
 
