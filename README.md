@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/Sampa321/Bank-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampa321&repo=Bank-Management-System&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampa321&repo=JavaMainAdvanceProjectUsingMysqlDaoPojo&theme=radical" />
   </a>
 
   <a href="https://github.com/Sampa321/Notes-App">
