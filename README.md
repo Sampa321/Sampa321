@@ -74,24 +74,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analysis
 <p align="center">
-  <p>
-      <h2>GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical" />
-  </p>
-  <p>
-      <h2>🔥 GitHub Streak</h2>
-      <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=radical" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=radical" />
 </p>
 
 ---
-
-## 🔥 GitHub Streak
-
----
-
+ 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sampa321&theme=radical" />
