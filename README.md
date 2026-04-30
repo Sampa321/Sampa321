@@ -118,6 +118,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sampa321&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Experience" />
 </p>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Sampa321&theme=radical&no-bg=true&no-frame=true&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,MultiLanguage" />
 ---
 
 ## 🔗 Let's Connect
