@@ -54,6 +54,21 @@
   <img src="https://img.shields.io/badge/Hard-5-red?style=for-the-badge" />
 </p> 
 
+
+
+## 📊 Coding Profiles Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sampa_Nayak1?theme=dark&font=Baloo&ext=heatmap" width="48%" />
+  <a href="https://www.geeksforgeeks.org/user/sampanas3m4u/">
+    <img src="https://img.shields.io/badge/GFG%20Score-1000%2B-brightgreen?style=for-the-badge&logo=geeksforgeeks" width="48%" />
+  </a>
+</p>
 ---
 
 ## 🎓 Certifications
