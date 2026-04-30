@@ -41,17 +41,18 @@
 </p>
  
 ### 🟢 GeeksforGeeks Stats
-<img src="https://img.shields.io/badge/GeeksforGeeks-1000%2B%20Score-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
-<p align="center">
-  <img src="https://img.shields.io/badge/Easy-120-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Medium-250-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hard-80-red?style=for-the-badge" />
-</p>
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/sampanas3m4u/">
-    <img src="https://img.shields.io/badge/GFG%20Score-500%2B-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-1127%2B%20Score-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
   </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Basic-267-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Easy-258-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medium-76-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hard-5-red?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🎓 Certifications
