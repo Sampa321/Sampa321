@@ -29,11 +29,7 @@
 
 🔹 **Notes App**  
 - Built using HTML, CSS, JavaScript  
-- Simple and responsive UI for note management  
-
-
-## 📂 Featured Projects
-
+- Simple and responsive UI for note management.
 <p align="center">
   <a href="https://github.com/Sampa321/BankManagementSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampa321&repo=BankManagementSystem&theme=radical" />
