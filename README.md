@@ -42,7 +42,9 @@
 
 ### 🟢 GeeksforGeeks
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sampanas3m4u" />
+  <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" />
+  </a>
 </p>
 ---
 
