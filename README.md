@@ -22,7 +22,7 @@
 
 ---
 
-## ## 📂 Featured Projects
+## 📂 Featured Projects
 🔹 **Bank Management System**  
 - Built using Java & MySQL  
 - Implements account handling, transactions, and database operations  
@@ -39,6 +39,19 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampa321&repo=DailyDevelopmentPracticeTask&theme=radical" />
   </a>
 </p>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Sampa321/bank-management-system">
+    <img src="https://img.shields.io/badge/Bank_Management_System-4CAF50?style=for-the-badge"/>
+  </a>
+
+  <a href="https://github.com/Sampa321/notes-app">
+    <img src="https://img.shields.io/badge/Notes_App-2196F3?style=for-the-badge"/>
+  </a>
+</p>
+
 ---
 
 ## 🏆 Achievements
