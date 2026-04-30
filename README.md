@@ -39,11 +39,23 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Sampa_Nayak1?theme=dark&font=Baloo&ext=heatmap" />
 </p>
-
-### 🟢 GeeksforGeeks
+ 
 ### 🟢 GeeksforGeeks Stats
 <p align="center">
   <img src="https://gfgstatscard.vercel.app/sampanas3m4u" />
+</p>
+
+
+## 📊 Coding Profiles Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" width="48%" />
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sampanas3m4u" width="48%" />
 </p>
 ---
 
