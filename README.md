@@ -1,10 +1,3 @@
-## 📊 GitHub Analysis
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=radical" />
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Sampa Nayak</h1>
 <h3 align="center">Frontend Develpoer | Java Developer | 500+ GeeksForGeeks and LeetCode Problems solved</h3>
 <p align="center">
@@ -113,6 +106,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampa321&theme=react-dark&hide_border=true&area=true" />
 </p>
+
 ---
  
 ## 🏆 GitHub Trophies
