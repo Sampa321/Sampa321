@@ -41,10 +41,9 @@
 </p>
 
 ### 🟢 GeeksforGeeks
+### 🟢 GeeksforGeeks Stats
 <p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" />
-  </a>
+  <img src="https://gfgstatscard.vercel.app/sampanas3m4u" />
 </p>
 ---
 
