@@ -46,7 +46,7 @@
 ## 🏆 Achievements
 ✔ Solved **500+ DSA problems** (Arrays, Strings, Linked List, Recursion, Stack, Queue)  
 ✔ Active coding on platforms like LeetCode & GeeksforGeeks  
-✔ Consistent GitHub contributions  <p align="center">
+✔ Consistent GitHub contributions  <p>
   <a href="https://github.com/Sampa321">
     <img src="https://img.shields.io/badge/Visit_My_Profile-ff00ff?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
