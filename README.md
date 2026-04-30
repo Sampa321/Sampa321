@@ -35,8 +35,8 @@
 ## 📂 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Sampa321/JavaMainAdvanceProjectUsingMysqlDaoPojo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampa321&repo=JavaMainAdvanceProjectUsingMysqlDaoPojo&theme=radical" />
+  <a href="https://github.com/Sampa321/BankManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampa321&repo=BankManagementSystem&theme=radical" />
   </a>
 
   <a href="https://github.com/Sampa321/Notes-App">
