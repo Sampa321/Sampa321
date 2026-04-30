@@ -110,7 +110,9 @@
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-<img align="center" src="https://komarev.com/ghpvc/?username=Sampa321&style=for-the-badge" />
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sampa321&style=for-the-badge" />
+</p>
 
 ---
 
