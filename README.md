@@ -109,3 +109,66 @@
 
 ## ✨ Quote
 > "Code daily. Improve daily. Win eventually."
+
+
+
+
+<h1 align="center">Hi 👋, I'm Sampa Nayak</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;Java+Developer;DSA+Learner;Consistent+Coder🔥" />
+</p>
+
+---
+
+## 💻 Coding Dashboard
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sampa_Nayak1?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sampa321&theme=radical" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,c,php,mysql,git,github,vscode,idea" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Sampa321/Sampa321/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+  <b>"Code daily. Improve daily. Win eventually."</b>
+</p>
