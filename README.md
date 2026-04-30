@@ -1,69 +1,60 @@
-## Hi👋, I'm Sampa
+ <h1 align="center">Hi 👋, I'm Sampa Nayak</h1>
+<h3 align="center">Frontend Developer | Java | DSA Learner</h3>
 
-<!--
-**Sampa321/Sampa321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science Student  
+- 💻 Focused on Frontend Development & Java  
+- 📚 Currently learning Data Structures & Algorithms  
+- 🌱 Improving problem-solving skills daily  
+- 📍 Kolkata, India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🎓 Student | 💻 Frontend Developer  | Java Developer
-📫 How to reach me: sampanayak987@gmail.com 
+---
 
-## Education :
-Bachelor Of Technology in Computer Science and Engineering (2023 - 2027)
-Swami Vivekananda University(West Bengal,India)
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
+</p>
 
-## 🚀 Programming Languages 
-- HTML5
-- CSS
-- JavaScript
-- Java
-- Python
-- C
-- PHP
-- SQL
-- React
+---
 
- ## Database System :
- - MySQL
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical" />
+</p>
 
-## Development Tools :
-- Git
-- GitHub
-- VS Code
-- Intellij IDEA
-- PyCharm
+---
 
-## Other  Skills :
-- Data Structures & Algorithms
-- Object-Oriented Programming
-  
-## 📌 Projects
-- Bank Management System using java and MySQL
-- Note App using html, CSS, JavaScript
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=radical" />
+</p>
 
-## Achievements :
-- Solved 500+ DSA problems focusing on Array, Strings, Linked List, Recursion, Stack, Queue etc. Platform : LeedCode, GeeksForGeeeks.
-- Completed 500+ GitHub commit.
+---
 
-## Certifications :
-- Programming In Java                         NPTEL
-- Design and Analysis Of Algorithms           NPTEL
-- Training on React                           Ardent Computech Pvt. Ltd.
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sampa321&theme=radical" />
+</p>
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical)
+---
 
-### 🔥 Streak
-![Streak](https://streak-stats.demolab.com/?user=Sampa321&theme=radical)
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=radical" />
+</p>
 
-### 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sampa321&theme=radical)
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## ✨ Quote
+> "Consistency is more important than perfection."
