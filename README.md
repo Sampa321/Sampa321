@@ -2,9 +2,11 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Java+Developer;DSA+Enthusiast;Problem+Solver&center=true&width=500&height=50">
 </h3>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=black&size=25&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sampa+Nayak" />
+</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sampa+Nayak;Frontend+Developer;Java+%7C+DSA+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=black&size=25&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sampa+Nayak;Frontend+Developer;Java+%7C+DSA+Enthusiast;Always+Learning+New+Things" />
 </p>
 ---
 
