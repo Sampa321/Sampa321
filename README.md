@@ -40,14 +40,13 @@
   </a>
 </p>
 
-## 🚀 Featured Projects
-
+ 
 <p align="center">
-  <a href="https://github.com/Sampa321/bank-management-system">
+  <a href="https://github.com/Sampa321/BankManagementSystem">
     <img src="https://img.shields.io/badge/Bank_Management_System-4CAF50?style=for-the-badge"/>
   </a>
 
-  <a href="https://github.com/Sampa321/notes-app">
+  <a href="https://github.com/Sampa321/DailyDevelopmentPracticeTask/tree/main/MiniProject/Note-APP">
     <img src="https://img.shields.io/badge/Notes_App-2196F3?style=for-the-badge"/>
   </a>
 </p>
