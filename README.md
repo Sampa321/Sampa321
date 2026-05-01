@@ -52,7 +52,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
- 
+
+ <p align="center">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
+
 ### ⚙️ Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm" />
@@ -62,6 +66,8 @@
 <p>
   <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-000000?style=for-the-badge&logo=code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Object_Oriented_Programming-000000?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database_Management_System-000000?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-000000?style=for-the-badge&logo=network&logoColor=white"/>
 </p>
 
  --- 
