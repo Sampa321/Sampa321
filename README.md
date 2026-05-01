@@ -102,12 +102,6 @@
  --- 
  
  ## 📊 GitHub Analysis 
- ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=tokyonight&border_radius=10" />
-</p>
  <p align="center"> 
   <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=radical" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical"/>
