@@ -40,7 +40,7 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,php,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,php,js,SQL" />
 </p>
 
 ### 🌐 Frontend Development
@@ -55,7 +55,7 @@
 
 ### ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pyCharm" />
 </p>
 
  --- 
