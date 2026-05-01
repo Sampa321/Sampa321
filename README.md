@@ -41,7 +41,9 @@
  <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight" /> 
  </p>
+ 
  --- 
+ 
  ## 📂 Featured Projects 
  🔹 **Bank Management System** - Built using Java & MySQL 
  - Implements account handling, transactions, and database operations 
@@ -88,7 +90,6 @@
  
  ## 📊 GitHub Analysis 
  <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical" /> 
   <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=radical" /> 
  </p>
  <p align="center"> 
