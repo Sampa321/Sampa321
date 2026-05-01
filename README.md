@@ -35,20 +35,16 @@
  
  ---
  
- ## 🛠️ Tech Stack 
- <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,c,php,mysql,git,github,vscode,idea" />
- </p> 
- <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight" /> 
- </p>
-
+ 
  ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,php,js" />
 </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight" /> 
+ </p>
 
 ### 🌐 Frontend Development
 <p align="center">
