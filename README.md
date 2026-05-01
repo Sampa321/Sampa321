@@ -51,9 +51,6 @@
 ### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
- <p align="center">
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
