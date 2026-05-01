@@ -105,9 +105,9 @@
   <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=tokyonight&border_radius=10" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight&border_radius=10" />
-</p> -->
+</p> 
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight" /> 
