@@ -42,7 +42,29 @@
  <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight" /> 
  </p>
- 
+
+ ## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,php,js" />
+</p>
+
+### 🌐 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
+
  --- 
  
  ## 📂 Featured Projects  
