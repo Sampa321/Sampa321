@@ -42,9 +42,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,php,js" />
 </p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight" /> 
- </p>
 
 ### 🌐 Frontend Development
 <p align="center">
@@ -112,9 +109,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight" /> 
+ </p>
+
+ ---
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampa321&theme=react-dark&hide_border=true&area=true" />
 </p>
+
  
  --- 
  ## 🏆 GitHub Trophies
@@ -136,4 +140,4 @@
  ---
  
  ## ✨ Quote
- <p align="center"> <b>"Code daily. Improve daily. Win eventually."</b> </p> give github analysis
+ <p align="center"> <b>"Code daily. Improve daily. Win eventually."</b> </p> 
