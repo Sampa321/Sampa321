@@ -137,6 +137,8 @@
   <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <a href="https://github.com/Sampa321"> <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/> </a>
  </p> 
+  <h4>💙 Open to Full Stack & SWE Opportunities</h4>
+ <p align="center">Building scalable solutions, one commit at a time</p>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sampa321&style=for-the-badge" /> </p>
  
  ---
