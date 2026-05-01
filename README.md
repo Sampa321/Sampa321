@@ -90,7 +90,9 @@
 
 | 🏅 Platform | 📊 Achievement | 🔗 Profile |
 |------------|---------------|-----------|
-| LeetCode | Solved 70+ problems (DSA focused) | [Visit](https://leetcode.com/Sampa_Nayak1) |
+| LeetCode | Solved 70+ problems (DSA focused) |<a href="https://leetcode.com/Sampa_Nayak1"> 
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> 
+     </a> |
 | GeeksforGeeks | Solved 600+ problems | [Visit](https://auth.geeksforgeeks.org/user/sampanas3m4u) |
 | GitHub | Active 500+ commits | [Visit](https://github.com/Sampa321) |
 
