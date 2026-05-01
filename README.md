@@ -40,7 +40,7 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,php,js,SQL" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,php,js" />
 </p>
 
 ### 🌐 Frontend Development
@@ -50,8 +50,7 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql" /> 
 </p>
 
 ### ⚙️ Tools & Technologies
