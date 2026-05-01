@@ -86,6 +86,13 @@
 ✔ Solved **500+ DSA problems** (Arrays, Strings, Linked List, Recursion, Stack, Queue)  
 ✔ Active coding on platforms like LeetCode & GeeksforGeeks  
 ✔ Consistent GitHub contributions  
+## 🏆 Achievements
+
+| 🏅 Platform | 📊 Achievement | 🔗 Profile |
+|------------|---------------|-----------|
+| LeetCode | Solved 70+ problems (DSA focused) | [Visit](https://leetcode.com/Sampa_Nayak1) |
+| GeeksforGeeks | Solved 600+ problems | [Visit](https://auth.geeksforgeeks.org/user/sampanas3m4u) |
+| GitHub | Active 500+ commits | [Visit](https://github.com/Sampa321) |
 
  <p align="center"> 
      <a href="https://github.com/Sampa321"> 
