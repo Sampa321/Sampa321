@@ -87,10 +87,10 @@
  
  --- 
  
- ## 🎓 Certifications 
- 📜 Programming in Java – NPTEL 
- 📜 Design & Analysis of Algorithms – NPTEL 
- 📜 React Training – Ardent Computech Pvt. Ltd.
+## 🎓 Certifications
+📜 Programming in Java – NPTEL  
+📜 Design & Analysis of Algorithms – NPTEL  
+📜 React Training – Ardent Computech Pvt. Ltd.  
  
  --- 
  
