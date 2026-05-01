@@ -69,7 +69,7 @@
  --- 
  
  ## 📂 Featured Projects  
-🔹 **Bank Management System**  
+💳 **Bank Management System**  
 - Built using Java & MySQL  
 - Implements account handling, transactions, and database operations  
 <p>
@@ -78,7 +78,7 @@
   </a> 
 </p>
 
-🔹 **Notes App**  
+📝 **Notes App**  
 - Built using HTML, CSS, JavaScript  
 - Simple and responsive UI for note management  
 <p> 
