@@ -31,7 +31,9 @@
   🌱 Currently learning Advanced DSA & React.<br> 📍 Kolkata, India <br> 
   📫 Email: sampanayak987@gmail.com 
  </p> 
+ 
  ---
+ 
  ## 🛠️ Tech Stack 
  <p align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,c,php,mysql,git,github,vscode,idea" />
