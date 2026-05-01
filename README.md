@@ -88,18 +88,12 @@
 ✔ Consistent GitHub contributions  
 ## 🏆 Coding Achievements
 
+|## 🏆 Coding Achievements
+
 | Platform | Achievement | Profile |
-|----------|-----------|---------|
-| 🧠 LeetCode | 250+ problems solved | <a href="https://leetcode.com/Sampa_Nayak1"><img src="https://leetcard.jacoblin.cool/Sampa_Nayak1?theme=dark&width=300"/></a> |
-| 🟢 GFG | 250+ problems solved | <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u"><img src="https://img.shields.io/badge/View_Profile-green?style=for-the-badge"/></a> |
-| 🐙 GitHub | Consistent contributions | <a href="https://github.com/Sampa321"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sampa321&theme=tokyonight" width="300"/></a> |
-| 🏅 Platform | 📊 Achievement | 🔗 Profile |
-|------------|---------------|-----------|
-| LeetCode | Solved 70+ problems (DSA focused) |<a href="https://leetcode.com/Sampa_Nayak1"> 
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> 
-     </a> |
-| GeeksforGeeks | Solved 600+ problems | [Visit](https://auth.geeksforgeeks.org/user/sampanas3m4u) |
-| GitHub | Active 500+ commits | [Visit](https://github.com/Sampa321) |
+|----------|------------|---------|
+| 🧠 LeetCode | 250+ problems solved | <a href="https://leetcode.com/Sampa_Nayak1"><img src="https://img.shields.io/badge/LeetCode-Visit_Profile-orange?style=for-the-badge&logo=leetcode"/></a> |
+| 🟢 GFG | 250+ problems solved | <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u"><img src="https://img.shields.io/badge/GeeksforGeeks-Visit_Profile-green?style=for-the-badge&logo=geeksforgeeks"/></a> |
 
  <p align="center"> 
      <a href="https://github.com/Sampa321"> 
