@@ -102,7 +102,6 @@
 | Programming in Java | NPTEL (IIT) | 2024 | <img src="https://img.shields.io/badge/Elite+Silver-FFD700?style=for-the-badge"/> |
 | Design & Analysis of Algorithms | NPTEL (IIT) | 2024 | <img src="https://img.shields.io/badge/Certified-blue?style=for-the-badge"/> |
 | React Development | Ardent Computech Pvt. Ltd. | 2024 | <img src="https://img.shields.io/badge/Certified-green?style=for-the-badge"/> |
-
  --- 
  
  ## 📊 GitHub Analysis 
