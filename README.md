@@ -97,8 +97,8 @@
 
 | 📘 Course | 🏢 Organization | 📅 Year | 🏅 Achievement |
 |:---------:|:--------------:|:------:|:--------------:|
-| Programming in Java | NPTEL (IIT) | 2024 | <img src="https://img.shields.io/badge/🥇_Elite+Silver-FFD700?style=for-the-badge"/> |
-| Design & Analysis of Algorithms | NPTEL (IIT) | 2024 | <img src="https://img.shields.io/badge/📜_Certified-4CAF50?style=for-the-badge"/> |
+| Programming in Java | NPTEL (IIT) | 2025 | <img src="https://img.shields.io/badge/🥇_Elite+Silver-FFD700?style=for-the-badge"/> |
+| Design & Analysis of Algorithms | NPTEL (IIT) | 2025 | <img src="https://img.shields.io/badge/📜_Certified-4CAF50?style=for-the-badge"/> |
 | React Development | Ardent Computech Pvt. Ltd. | 2024 | <img src="https://img.shields.io/badge/📜_Certified-2196F3?style=for-the-badge"/> |
 
  --- 
