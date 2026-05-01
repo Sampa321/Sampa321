@@ -109,7 +109,15 @@
 📜 Programming in Java – NPTEL  
 📜 Design & Analysis of Algorithms – NPTEL  
 📜 React Training – Ardent Computech Pvt. Ltd.  
- 
+ ## 🎓 Certifications
+
+| 🏆 Certification | 🏢 Organization | 📅 Year | 🔗 Link |
+|-----------------|----------------|--------|--------|
+| Programming in Java | NPTEL | 2024 | [View](#) |
+| Design & Analysis of Algorithms | NPTEL | 2024 | [View](#) |
+| React Training | Ardent Computech Pvt. Ltd. | 2024 | [View](#) |
+| Java SE (Silver Level) | Oracle / Certification Body | 2024 | [View](#) |
+
  --- 
  
  ## 📊 GitHub Analysis 
