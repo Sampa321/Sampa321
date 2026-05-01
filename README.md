@@ -44,17 +44,17 @@
 </p>
 
 ### 🌐 Frontend Development
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### 🗄️ Database
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### ⚙️ Tools & Technologies
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
@@ -68,7 +68,7 @@
 🔹 **Notes App**  
 - Built using HTML, CSS, JavaScript  
 - Simple and responsive UI for note management  
-<p align="center"> 
+<p> 
   <a href="https://github.com/Sampa321/BankManagementSystem"> 
    <img src="https://img.shields.io/badge/Bank_Management_System-4CAF50?style=for-the-badge"/> 
   </a> 
