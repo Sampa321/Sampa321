@@ -97,7 +97,7 @@
  <p align="center"> 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampa321&theme=react-dark&hide_border=true&area=true" /> 
  </p> 
- 
+
  --- 
  ## 🏆 GitHub Trophies
  <p align="center"> 
