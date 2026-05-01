@@ -130,7 +130,7 @@
  
  ---
  
- ## 🔗 Let's Connect 
+ ## 🔗🤝 Let's Connect 
  
  <p align="center"> 
   <a href="mailto:sampanayak987@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
