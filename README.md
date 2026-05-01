@@ -86,14 +86,13 @@
 ✔ Solved **500+ DSA problems** (Arrays, Strings, Linked List, Recursion, Stack, Queue)  
 ✔ Active coding on platforms like LeetCode & GeeksforGeeks  
 ✔ Consistent GitHub contributions  
-## 🏆 Achievements
 ## 🏆 Coding Achievements
 
-| 🧠 Platform | 📊 Achievement | 🔗 Profile |
-|------------|--------------|-----------|
-| LeetCode | Solved 250+ DSA problems (Arrays, Strings, Linked List, Stack, Queue) | <a href="https://leetcode.com/Sampa_Nayak1"><img src="https://leetcard.jacoblin.cool/Sampa_Nayak1?theme=dark&font=Baloo&ext=heatmap" width="350"/></a> |
-| GeeksforGeeks | Solved 250+ problems with strong fundamentals | <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u"><img src="https://img.shields.io/badge/View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/></a> |
-| GitHub | Active contributor with multiple projects & consistent commits | <a href="https://github.com/Sampa321"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sampa321&show_icons=true&theme=tokyonight" width="350"/></a> |
+| Platform | Achievement | Profile |
+|----------|-----------|---------|
+| 🧠 LeetCode | 250+ problems solved | <a href="https://leetcode.com/Sampa_Nayak1"><img src="https://leetcard.jacoblin.cool/Sampa_Nayak1?theme=dark&width=300"/></a> |
+| 🟢 GFG | 250+ problems solved | <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u"><img src="https://img.shields.io/badge/View_Profile-green?style=for-the-badge"/></a> |
+| 🐙 GitHub | Consistent contributions | <a href="https://github.com/Sampa321"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sampa321&theme=tokyonight" width="300"/></a> |
 | 🏅 Platform | 📊 Achievement | 🔗 Profile |
 |------------|---------------|-----------|
 | LeetCode | Solved 70+ problems (DSA focused) |<a href="https://leetcode.com/Sampa_Nayak1"> 
