@@ -93,8 +93,6 @@
  
 ## 🎓 Certifications 
 
-## 🎓 Certifications 
-
 | 📘 Course | 🏢 Organization | 📅 Year | 🏅 Achievement |
 |:---------:|:--------------:|:------:|:--------------:|
 | Programming in Java | NPTEL (IIT) | 2025 | <img src="https://img.shields.io/badge/🥇_Elite+Silver-FFD700?style=for-the-badge"/> |
