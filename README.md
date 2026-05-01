@@ -102,6 +102,15 @@
       <img src="https://img.shields.io/badge/Visit_My_Profile-ff00ff?style=for-the-badge&logo=github&logoColor=white"/> 
      </a>
  </p> 
+
+
+ ## 🏆 Coding Achievements
+
+| Platform | Achievement | Profile |
+|----------|------------|---------|
+| 🧠 LeetCode | 250+ problems solved | <a href="https://leetcode.com/Sampa_Nayak1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> |
+| 🟢 GeeksforGeeks | 250+ problems solved | <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> |
+| 🐙 GitHub | 500+ commits with consistent contributions | <a href="https://github.com/Sampa321"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
  
  ## 💻 Coding Profiles 
  <p align="center"> 
