@@ -94,8 +94,7 @@
 | 🧠 LeetCode | 250+ problems solved | <a href="https://leetcode.com/Sampa_Nayak1"><img src="https://img.shields.io/badge/LeetCode-Visit_Profile-orange?style=for-the-badge&logo=leetcode"/></a> |
 | 🟢 GFG | 250+ problems solved | <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u"><img src="https://img.shields.io/badge/GeeksforGeeks-Visit_Profile-green?style=for-the-badge&logo=geeksforgeeks"/></a> |
 | GitHub | 500+ commits with consistent project contributions | <a href="https://github.com/Sampa321"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/></a> |
-| GitHub | 500+ commits with consistent project contributions | <a href="https://github.com/Sampa321"><img src="https://img.shields.io/badge/GitHub-ff00ff?style=for-the-badge&logo=github&logoColor=white"/></a> |
- <p align="center"> 
+| GitHub | 500+ commits with consistent project contributions | GitHub <a href="https://github.com/Sampa321"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
      <a href="https://github.com/Sampa321"> 
       <img src="https://img.shields.io/badge/Visit_My_Profile-ff00ff?style=for-the-badge&logo=github&logoColor=white"/> 
      </a>
