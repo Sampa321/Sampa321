@@ -45,12 +45,15 @@
  
  --- 
  
- ## 📂 Featured Projects 
- 🔹 **Bank Management System** - Built using Java & MySQL 
- - Implements account handling, transactions, and database operations 
- 🔹 **Notes App** 
- - Built using HTML, CSS, JavaScript - Simple and responsive UI for note management. 
- <p align="center"> 
+ ## 📂 Featured Projects  
+🔹 **Bank Management System**  
+- Built using Java & MySQL  
+- Implements account handling, transactions, and database operations  
+
+🔹 **Notes App**  
+- Built using HTML, CSS, JavaScript  
+- Simple and responsive UI for note management  
+<p align="center"> 
   <a href="https://github.com/Sampa321/BankManagementSystem"> 
    <img src="https://img.shields.io/badge/Bank_Management_System-4CAF50?style=for-the-badge"/> 
   </a> 
@@ -61,10 +64,11 @@
  
  ---
  
- ## 🏆 Achievements
- ✔ Solved **500+ DSA problems** (Arrays, Strings, Linked List, Recursion, Stack, Queue) 
- ✔ Active coding on platforms like LeetCode & GeeksforGeeks 
- ✔ Consistent GitHub contributions 
+ ## 🏆 Achievements 
+✔ Solved **500+ DSA problems** (Arrays, Strings, Linked List, Recursion, Stack, Queue)  
+✔ Active coding on platforms like LeetCode & GeeksforGeeks  
+✔ Consistent GitHub contributions  
+
  <p align="center"> 
      <a href="https://github.com/Sampa321"> 
       <img src="https://img.shields.io/badge/Visit_My_Profile-ff00ff?style=for-the-badge&logo=github&logoColor=white"/> 
