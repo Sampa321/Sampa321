@@ -102,6 +102,24 @@
  --- 
  
  ## 📊 GitHub Analysis 
+## 📊 GitHub Analysis
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampa321&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+
+
+ 
  <p align="center"> 
   <img src="https://streak-stats.demolab.com/?user=Sampa321&theme=radical" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=radical"/>
