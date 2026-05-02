@@ -135,7 +135,7 @@
  
  <p align="center"> 
   <a href="mailto:sampanayak987@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
-  <a href="https://www.linkedin.com/in/sampa-nayak-5486a235a//"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://www.linkedin.com/in/sampa-nayak-5486a235a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <a href="https://github.com/Sampa321"> <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/> </a>
  </p> 
  <h4 align="center">💙 Open to Full Stack & SWE Opportunities</h4>
