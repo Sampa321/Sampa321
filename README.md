@@ -4,7 +4,7 @@
     <a href="mailto:sampanayak987@gmail.com"> 
       <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-   <a href="https://www.linkedin.com/"> 
+   <a href="https://www.linkedin.com/in/sampa-nayak-5486a235a/"> 
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
   <a href="https://github.com/Sampa321"> 
@@ -33,6 +33,13 @@
   📫 Email: sampanayak987@gmail.com 
  </p> 
  
+  ---
+ 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampa321&theme=react-dark&hide_border=true&area=true" />
+</p>
+
  ---
  
  
@@ -113,13 +120,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=tokyonight" />
     <img src="https://streak-stats.demolab.com?user=Sampa321&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight" />
-</p>
-
- ---
- 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampa321&theme=react-dark&hide_border=true&area=true" />
 </p>
 
  --- 
