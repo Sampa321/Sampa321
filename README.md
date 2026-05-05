@@ -120,9 +120,11 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sampa321&show_icons=true&bg_color=0f2027&theme=tokyonight&hide_border=true" /> 
     <img src="https://streak-stats.demolab.com?user=Sampa321&theme=tokyonight" />  
 </p>
+
 <p align="center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight" />
 </p>
+
  --- 
  
  ## 🏆 GitHub Trophies
