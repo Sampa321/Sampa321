@@ -88,8 +88,8 @@
 **Resume Create Website
 - Users can add personal information, skills, education, projects, certifications, and work experience, achievements, and download the resume as a PDF. Built using HTML, CSS, and JavaScript.
 <p>
-  <a href="https://github.com/Sampa321/ResumeCreateWebsite">
-   <img src="https://img.shields.io/badge/ResumeCreateWebsite -2196F3?style=for-the-badge"/>/>
+  <a href="https://github.com/Sampa321/ResumeCreationWebsite">
+   <img src="https://img.shields.io/badge/ResumeCreateWebsite -2196F3?style=for-the-badge"/>
   </a>
 </p>
 
