@@ -28,7 +28,7 @@
  <p> 
   🎓 B.Tech in Computer Science & Engineering (2023–2027) of CGPA 8.71/10.0.<br>
   🏫 Swami Vivekananda University, West Bengal, India. <br> 
-  💻 Passionate about Frontend Development & 500+ GeeksForGeeks Problem Solving.<br> 
+  💻 Passionate about Frontend Development & 600+ GeeksForGeeks Problem Solving.<br> 
   🌱 Currently learning Advanced DSA, React and Java Spring Boot.<br> 📍 Kolkata, India <br> 
   📫 Email: sampanayak987@gmail.com 
  </p> 
@@ -85,7 +85,7 @@
   </a> 
 </p>
 
-**Resume Create Website
+ 📄 **Resume Create Website**
 - Users can add personal information, skills, education, projects, certifications, and work experience, achievements, and download the resume as a PDF. Built using HTML, CSS, and JavaScript.
 <p>
   <a href="https://github.com/Sampa321/ResumeCreationWebsite">
