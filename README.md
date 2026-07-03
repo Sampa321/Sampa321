@@ -107,9 +107,9 @@
  ## 🏆 Achievements 
 | Platform | Achievement | Profile |
 |----------|------------|---------|
-| 🧠 LeetCode | 70+ problems solved | <a href="https://leetcode.com/Sampa_Nayak1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> |
+| 🧠 LeetCode | 100+ problems solved | <a href="https://leetcode.com/Sampa_Nayak1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> |
 | 🟢 GeeksforGeeks | 600+ problems solved | <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> |
-| 🐙 GitHub | 500+ commits with consistent contributions | <a href="https://github.com/Sampa321"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| 🐙 GitHub | 1000+ commits with consistent contributions | <a href="https://github.com/Sampa321"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
  
  --- 
  
