@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Sampa Nayak</h1>
- <h3 align="center">Frontend Developer | Java Developer | 600+ GeeksForGeeks and 120+ LeetCode Problems solved</h3> 
+ <h3 align="center">Frontend Developer | Java Developer | 700+ GeeksForGeeks and 140+ LeetCode Problems solved</h3> 
  <p align="center">
     <a href="mailto:sampanayak987@gmail.com"> 
       <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -28,7 +28,7 @@
  <p> 
   🎓 B.Tech in Computer Science & Engineering (2023–2027) of CGPA 8.71/10.0.<br>
   🏫 Swami Vivekananda University, West Bengal, India. <br> 
-  💻 Passionate about Frontend Development & 600+ GeeksForGeeks and leetcode Problem Solving.<br> 
+  💻 Passionate about Frontend Development & 700+ GeeksForGeeks and leetcode Problem Solving.<br> 
   🌱 Currently learning Advanced DSA, React and Java Spring Boot.<br> 📍 Kolkata, India <br> 
   📫 Email: sampanayak987@gmail.com 
  </p> 
@@ -108,7 +108,9 @@
 | Platform | Achievement | Profile |
 |----------|------------|---------|
 | 🧠 LeetCode | 100+ problems solved | <a href="https://leetcode.com/Sampa_Nayak1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> |
-| 🟢 GeeksforGeeks | 600+ problems solved | <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> |
+| 🟢 GeeksforGeeks | 600+ problems solved and coding score 1473 | <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> |
+| 🟢 neetcode | 50+ problems solved | <a href="https://neetcode.io/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=neetcode&logoColor=white"/></a> |
+| 🟢 code 360 | 5000+ EXP earned | <a href="https://www.naukri.com/code360/profile/b418e100-3cb4-4507-8487-325d51d979be"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=neetcode&logoColor=white"/></a> |
 | 🐙 GitHub | 1000+ commits with consistent contributions | <a href="https://github.com/Sampa321"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
  
  --- 
