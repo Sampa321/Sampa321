@@ -111,7 +111,7 @@
 | 🧠 LeetCode | Solved **100+** DSA problems | <a href="https://leetcode.com/Sampa_Nayak1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> |
 | 🟢 GeeksforGeeks | Solved **600+** problems • Coding Score **1473** | <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> |
 | 💻 NeetCode | Solved **50+** curated DSA problems | <a href="https://neetcode.io"><img src="https://img.shields.io/badge/NeetCode-1E88E5?style=for-the-badge&logo=codeforces&logoColor=white"/></a> |
-| 🚀 Code360 | Earned **5000+ EXP** | <a href="https://www.naukri.com/code360/profile/b418e100-3cb4-4507-8487-325d51d979be"><img src="https://img.shields.io/badge/Code360-FF6B00?style=for-the-badge&logo=codingninjas&logoColor=white"/></a> |
+| 🚀 Codingninjas | Earned **5000+ EXP** | <a href="https://www.naukri.com/code360/profile/b418e100-3cb4-4507-8487-325d51d979be"><img src="https://img.shields.io/badge/Codingninjas-FF6B00?style=for-the-badge&logo=codingninjas&logoColor=white"/></a> |
 | 🐙 GitHub | **1000+** commits with consistent contributions | <a href="https://github.com/Sampa321"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
 
  
