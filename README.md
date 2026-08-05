@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Sampa Nayak</h1>
- <h3 align="center">Frontend Developer | Java Developer | 700+ GeeksForGeeks and 150+ LeetCode Problems solved</h3> 
+ <h3 align="center">Web Developer | Java Developer | 700+ GeeksForGeeks and 150+ LeetCode Problems solved</h3> 
  <p align="center">
     <a href="mailto:sampanayak987@gmail.com"> 
       <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
