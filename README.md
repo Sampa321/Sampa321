@@ -19,6 +19,9 @@
  <a href="https://neetcode.io/user/MagneticAlfred447">
      <img src="https://img.shields.io/badge/NeetCode-1E88E5?style=for-the-badge&logo=codeforces&logoColor=white"/>
  </a> 
+  <a href="https://www.naukri.com/code360/profile/b418e100-3cb4-4507-8487-325d51d979be">
+   <img src="https://img.shields.io/badge/Codingninjas-FF6B00?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+  </a>
  </p> 
 
  <p align="center"> 
