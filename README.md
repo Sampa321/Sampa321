@@ -209,9 +209,6 @@ I regularly practice Data Structures and Algorithms using Java.
 
  --- 
 
-
- ---
-
 # 📊 GitHub Statistics & Activity
 
 <p align="center">
@@ -244,8 +241,6 @@ I regularly practice Data Structures and Algorithms using Java.
     width="100%"
   />
 </p>
-
----
 
 ---
 
