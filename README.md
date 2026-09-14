@@ -210,39 +210,42 @@ I regularly practice Data Structures and Algorithms using Java.
  --- 
 
 
- # 📊 GitHub Statistics
+ ---
+
+# 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="Sampa Nayak's GitHub Stats"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sampa321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Sampa Nayak's GitHub Statistics"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Sampa321&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://streak-stats.demolab.com?user=Sampa321&theme=tokyonight&hide_border=true"
     alt="Sampa Nayak's GitHub Streak"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampa321&layout=compact&theme=tokyonight&hide_border=true"
     alt="Sampa Nayak's Top Languages"
   />
 </p>
 
----
-
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sampa321&theme=tokyo-night&hide_border=true&area=true" 
-    alt="Sampa Nayak's Contribution Graph"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sampa321&theme=tokyo-night&hide_border=true&area=true"
+    alt="Sampa Nayak's Contribution Activity"
+    width="100%"
   />
 </p>
+
+---
 
 ---
 
