@@ -159,19 +159,18 @@ A simple and responsive note-management application.
 https://github.com/Sampa321/DailyDevelopmentPracticeTask/tree/main/MiniProject/Note-APP
 
 ---
-
-
-
-## 📈 Contribution Graph
-
-[<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sampa321&theme=tokyo-night&hide_border=true&area=true"
-    alt="Sampa Nayak's GitHub Contribution Graph"
-  />
-</p>](https://github-readme-activity-graph.vercel.app/graph?username=Sampa321&theme=tokyo-night&hide_border=true&area=true)
  
- ---
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://ghchart.rshah.org/40916C/Sampa321" 
+    alt="Sampa Nayak's GitHub Contribution Graph"
+    width="900"
+  />
+</p>
+
+---
  
 ## 🏆 Achievements
 
