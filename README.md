@@ -163,8 +163,12 @@ https://github.com/Sampa321/DailyDevelopmentPracticeTask/tree/main/MiniProject/N
 
 
 ## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampa321&theme=react-dark&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sampa321&theme=tokyo-night&hide_border=true&area=true"
+    alt="Sampa Nayak's GitHub Contribution Graph"
+  />
 </p>
  
  ---
