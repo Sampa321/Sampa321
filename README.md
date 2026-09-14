@@ -1,14 +1,5 @@
- 
-  <a href="https://github.com/Sampa321">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/Sampa_Nayak1">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u">
-    <im<h1 align="center">Hi 👋, I'm Sampa Nayak</h1>
-    
- 
+<h1 align="center">Hi 👋, I'm Sampa Nayak</h1>
+
 <h3 align="center">
   Full-Stack Developer | Java Developer | DSA Enthusiast
 </h3>
@@ -23,15 +14,25 @@
   </a>
   <a href="https://www.linkedin.com/in/sampa-nayak-5486a235a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>g src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sampa321">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/Sampa_Nayak1">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/sampanas3m4u">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
   <a href="https://neetcode.io/user/MagneticAlfred447">
     <img src="https://img.shields.io/badge/NeetCode-1E88E5?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=red&size=25&center=true&vCenter=true&width=650&lines=💻+Full-Stack+Developer;☕+Java+Developer;🧠+DSA+Enthusiast;🚀+Building+Real-World+Projects;🌱+Always+Learning+New+Things" />
 </p>
+
 
 ---
 
