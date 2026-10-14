@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sampa Nayak</h1>
 
 <h3 align="center">
-  Full-Stack Developer | Java Developer | DSA Enthusiast
+  MERN-Stack Developer | Java Developer | DSA Enthusiast
 </h3>
 
 <p align="center">
