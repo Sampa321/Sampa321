@@ -118,29 +118,6 @@ https://github.com/Sampa321/BankManagementSystem
 
 ---
 
-## 📄 Resume Creation Website
-
-**HTML • CSS • JavaScript**
-
-A web application that allows users to create professional resumes and download them as PDF.
-
-### Features
-
-- 👤 Personal information
-- 🎓 Education
-- 💻 Skills
-- 🚀 Projects
-- 📜 Certifications
-- 💼 Work experience
-- 🏆 Achievements
-- 📄 Resume preview
-- ⬇️ PDF download
-
-🔗 **Repository:**  
-https://github.com/Sampa321/ResumeCreationWebsite
-
----
-
 ## 📝 Notes App
 
 **HTML • CSS • JavaScript**
